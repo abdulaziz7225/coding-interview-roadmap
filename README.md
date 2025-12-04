@@ -20,6 +20,7 @@ It aligns with the course’s focus on mastering core concepts through a combina
 📂 .
 ├── 📁 01-data-structures-and-algorithms
 │   ├── 📁 01-array
+│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/01-data-structures-and-algorithms/01-array/01.running_sum_of_1d_array.py">01.running_sum_of_1d_array.py</a>
 │   ├── 📁 02-matrix
 │   ├── 📁 03-stack
 │   ├── 📁 04-queue
@@ -28,10 +29,10 @@ It aligns with the course’s focus on mastering core concepts through a combina
 │   ├── 📁 07-hash-table
 │   ├── 📁 08-hash-set
 │   ├── 📁 09-heap
-│   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/01-data-structures-and-algorithms/09-heap/01.take-gifts-from-the-richest-pile.py">01.take-gifts-from-the-richest-pile.py</a>
-│   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/01-data-structures-and-algorithms/09-heap/02.sort-characters-by-frequency.py">02.sort-characters-by-frequency.py</a>
-│   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/01-data-structures-and-algorithms/09-heap/03.minimum-cost-to-connect-sticks.py">03.minimum-cost-to-connect-sticks.py</a>
-│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/01-data-structures-and-algorithms/09-heap/04.find-median-from-data-stream.py">04.find-median-from-data-stream.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/01-data-structures-and-algorithms/09-heap/01.take_gifts_from_the_richest_pile.py">01.take_gifts_from_the_richest_pile.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/01-data-structures-and-algorithms/09-heap/02.sort_characters_by_frequency.py">02.sort_characters_by_frequency.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/01-data-structures-and-algorithms/09-heap/03.minimum_cost_to_connect_sticks.py">03.minimum_cost_to_connect_sticks.py</a>
+│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/01-data-structures-and-algorithms/09-heap/04.find_median_from_data_stream.py">04.find_median_from_data_stream.py</a>
 │   ├── 📁 10-graph
 │   ├── 📁 11-trie
 │   ├── 📁 12-sorting
