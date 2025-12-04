@@ -22,7 +22,8 @@ It aligns with the course’s focus on mastering core concepts through a combina
 │   ├── 📁 01-array
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/01-data-structures-and-algorithms/01-array/01.running_sum_of_1d_array.py">01.running_sum_of_1d_array.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/01-data-structures-and-algorithms/01-array/02.contains_duplicate.py">02.contains_duplicate.py</a>
-│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/01-data-structures-and-algorithms/01-array/03.left_and_right_sum_differences.py">03.left_and_right_sum_differences.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/01-data-structures-and-algorithms/01-array/03.left_and_right_sum_differences.py">03.left_and_right_sum_differences.py</a>
+│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/01-data-structures-and-algorithms/01-array/04.find_the_highest_altitude.py">04.find_the_highest_altitude.py</a>
 │   ├── 📁 02-matrix
 │   ├── 📁 03-stack
 │   ├── 📁 04-queue
