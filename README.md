@@ -29,6 +29,7 @@ It aligns with the course’s focus on mastering core concepts through a combina
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/01-data-structures-and-algorithms/02-matrix/02.matrix_diagonal_sum.py">02.matrix_diagonal_sum.py</a>
 │   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/01-data-structures-and-algorithms/02-matrix/03.row_with_maximum_ones.py">03.row_with_maximum_ones.py</a>
 │   ├── 📁 03-stack
+│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/01-data-structures-and-algorithms/03-stack/01.valid_parentheses.py">01.valid_parentheses.py</a>
 │   ├── 📁 04-queue
 │   ├── 📁 05-linked-list
 │   ├── 📁 06-tree-and-binary-search-tree
