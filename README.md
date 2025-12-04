@@ -30,7 +30,8 @@ It aligns with the course’s focus on mastering core concepts through a combina
 │   ├── 📁 09-heap
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/01-data-structures-and-algorithms/09-heap/01.take-gifts-from-the-richest-pile.py">01.take-gifts-from-the-richest-pile.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/01-data-structures-and-algorithms/09-heap/02.sort-characters-by-frequency.py">02.sort-characters-by-frequency.py</a>
-│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/01-data-structures-and-algorithms/09-heap/03.minimum-cost-to-connect-sticks.py">03.minimum-cost-to-connect-sticks.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/01-data-structures-and-algorithms/09-heap/03.minimum-cost-to-connect-sticks.py">03.minimum-cost-to-connect-sticks.py</a>
+│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/01-data-structures-and-algorithms/09-heap/04.find-median-from-data-stream.py">04.find-median-from-data-stream.py</a>
 │   ├── 📁 10-graph
 │   ├── 📁 11-trie
 │   ├── 📁 12-sorting
