@@ -32,7 +32,8 @@ It aligns with the course’s focus on mastering core concepts through a combina
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/01-data-structures-and-algorithms/03-stack/01.valid_parentheses.py">01.valid_parentheses.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/01-data-structures-and-algorithms/03-stack/02.reverse_string.py">02.reverse_string.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/01-data-structures-and-algorithms/03-stack/03.decimal_to_binary_conversion.py">03.decimal_to_binary_conversion.py</a>
-│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/01-data-structures-and-algorithms/03-stack/04.next_greater_element.py">04.next_greater_element.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/01-data-structures-and-algorithms/03-stack/04.next_greater_element.py">04.next_greater_element.py</a>
+│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/01-data-structures-and-algorithms/03-stack/05.sorting_stack.py">05.sorting_stack.py</a>
 │   ├── 📁 04-queue
 │   ├── 📁 05-linked-list
 │   ├── 📁 06-tree-and-binary-search-tree
