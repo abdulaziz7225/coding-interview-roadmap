@@ -51,7 +51,8 @@ It aligns with the course’s focus on mastering core concepts through a combina
 │   ├── 📁 10-graph
 │   ├── 📁 11-trie
 │   ├── 📁 12-sorting
-│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/01-data-structures-and-algorithms/12-sorting/01.apple_redistribution_into_boxes.py">01.apple_redistribution_into_boxes.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/01-data-structures-and-algorithms/12-sorting/01.apple_redistribution_into_boxes.py">01.apple_redistribution_into_boxes.py</a>
+│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/01-data-structures-and-algorithms/12-sorting/03.sort_vowels_in_a_string.py">03.sort_vowels_in_a_string.py</a>
 │   ├── 📁 13-searching
 │   ├── 📁 14-greedy-algorithm
 │   ├── 📁 15-divide-and-conquer
