@@ -56,7 +56,8 @@ It aligns with the course’s focus on mastering core concepts through a combina
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/01-data-structures-and-algorithms/12-sorting/03.sort_vowels_in_a_string.py">03.sort_vowels_in_a_string.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/01-data-structures-and-algorithms/12-sorting/04.reduction_operations_to_make_the_array_elements_equal.py">04.reduction_operations_to_make_the_array_elements_equal.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/01-data-structures-and-algorithms/12-sorting/05.divide_array_into_arrays_with_max_difference.py">05.divide_array_into_arrays_with_max_difference.py</a>
-│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/01-data-structures-and-algorithms/12-sorting/06.top_k_frequent_elements.py">06.top_k_frequent_elements.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/01-data-structures-and-algorithms/12-sorting/06.top_k_frequent_elements.py">06.top_k_frequent_elements.py</a>
+│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/01-data-structures-and-algorithms/12-sorting/07.meeting_rooms-ii.py">07.meeting_rooms-ii.py</a>
 │   ├── 📁 13-searching
 │   ├── 📁 14-greedy-algorithm
 │   ├── 📁 15-divide-and-conquer
