@@ -60,6 +60,7 @@ It aligns with the course’s focus on mastering core concepts through a combina
 │   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/01-data-structures-and-algorithms/12-sorting/07.meeting_rooms-ii.py">07.meeting_rooms-ii.py</a>
 │   ├── 📁 13-searching
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/01-data-structures-and-algorithms/13-searching/01.maximum_count_of_positive_integer_and_negative_integer.py">01.maximum_count_of_positive_integer_and_negative_integer.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/01-data-structures-and-algorithms/13-searching/02.minimum_common_value.py">02.minimum_common_value.py</a>
 │   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/01-data-structures-and-algorithms/13-searching/06.sqrtx.py">06.sqrtx.py</a>
 │   ├── 📁 14-greedy-algorithm
 │   ├── 📁 15-divide-and-conquer
