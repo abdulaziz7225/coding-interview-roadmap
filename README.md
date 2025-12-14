@@ -67,7 +67,8 @@ It aligns with the course’s focus on mastering core concepts through a combina
 │   ├── 📁 14-greedy-algorithm
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/01-data-structures-and-algorithms/14-greedy-algorithm/01.valid_palindrome_ii.py">01.valid_palindrome_ii.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/01-data-structures-and-algorithms/14-greedy-algorithm/02.maximum_length_of_pair_chain.py">02.maximum_length_of_pair_chain.py</a>
-│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/01-data-structures-and-algorithms/14-greedy-algorithm/03.minimum_add_to_make_parentheses_valid.py">03.minimum_add_to_make_parentheses_valid.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/01-data-structures-and-algorithms/14-greedy-algorithm/03.minimum_add_to_make_parentheses_valid.py">03.minimum_add_to_make_parentheses_valid.py</a>
+│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/01-data-structures-and-algorithms/14-greedy-algorithm/04.remove_duplicate_letters.py">04.remove_duplicate_letters.py</a>
 │   ├── 📁 15-divide-and-conquer
 ├── 📁 02-art-of-recursion
 ├── 📁 03-common-coding-patterns
