@@ -65,7 +65,8 @@ It aligns with the course’s focus on mastering core concepts through a combina
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/01-data-structures-and-algorithms/13-searching/05.search_a_2d_matrix_ii.py">05.search_a_2d_matrix_ii.py</a>
 │   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/01-data-structures-and-algorithms/13-searching/06.sqrtx.py">06.sqrtx.py</a>
 │   ├── 📁 14-greedy-algorithm
-│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/01-data-structures-and-algorithms/14-greedy-algorithm/01.valid_palindrome_ii.py">01.valid_palindrome_ii.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/01-data-structures-and-algorithms/14-greedy-algorithm/01.valid_palindrome_ii.py">01.valid_palindrome_ii.py</a>
+│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/01-data-structures-and-algorithms/14-greedy-algorithm/02.maximum_length_of_pair_chain.py">02.maximum_length_of_pair_chain.py</a>
 │   ├── 📁 15-divide-and-conquer
 ├── 📁 02-art-of-recursion
 ├── 📁 03-common-coding-patterns
