@@ -73,6 +73,7 @@ It aligns with the course’s focus on mastering core concepts through a combina
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/01-data-structures-and-algorithms/14-greedy-algorithm/05.largest_palindromic_number.py">05.largest_palindromic_number.py</a>
 │   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/01-data-structures-and-algorithms/14-greedy-algorithm/06.removing_minimum_and_maximum_from_array.py">06.removing_minimum_and_maximum_from_array.py</a>
 │   ├── 📁 15-divide-and-conquer
+│   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/01-data-structures-and-algorithms/15-divide-and-conquer/01.longest_nice_substring.py">01.longest_nice_substring.py</a>
 │   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/01-data-structures-and-algorithms/15-divide-and-conquer/02.majority_element.py">02.majority_element.py</a>
 ├── 📁 02-art-of-recursion
 ├── 📁 03-common-coding-patterns
