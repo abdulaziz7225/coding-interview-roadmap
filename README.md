@@ -77,6 +77,40 @@ It aligns with the course’s focus on mastering core concepts through a combina
 │   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/01-data-structures-and-algorithms/15-divide-and-conquer/02.majority_element.py">02.majority_element.py</a>
 ├── 📁 02-art-of-recursion
 ├── 📁 03-common-coding-patterns
+│   ├── 📁 01-warm-up
+│   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/01-warm-up/01.contains_duplicate.py">01.contains_duplicate.py</a>
+│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/01-warm-up/02.check_if_the_sentence_is_pangram.py">02.check_if_the_sentence_is_pangram.py</a>
+│   ├── 📁 02-two-pointers
+│   ├── 📁 03-fast-and-slow-pointers
+│   ├── 📁 04-sliding-window
+│   ├── 📁 05-merge-intervals
+│   ├── 📁 06-cyclic-sort
+│   ├── 📁 07-in-place-reversal-of-linked-list
+│   ├── 📁 08-stack
+│   ├── 📁 09-monotonic-stack
+│   ├── 📁 10-hash-map
+│   ├── 📁 11-level-order-traversal
+│   ├── 📁 12-tree-breadth-first-search
+│   ├── 📁 13-tree-depth-first-search
+│   ├── 📁 14-graph
+│   ├── 📁 15-island-matrix-traversal
+│   ├── 📁 16-two-heaps
+│   ├── 📁 17-subset
+│   ├── 📁 18-modified-binary-search
+│   ├── 📁 19-bitwise-xor
+│   ├── 📁 20-top-k-elements
+│   ├── 📁 21-k-way-merge
+│   ├── 📁 22-greedy-algorithm
+│   ├── 📁 23-dp-0-or-1-knapsack
+│   ├── 📁 24-dp-fibonacci-number
+│   ├── 📁 25-dp-palindromic-subsequence
+│   ├── 📁 26-backtracking
+│   ├── 📁 27-trie
+│   ├── 📁 28-graph-topological-sort
+│   ├── 📁 29-union-find
+│   ├── 📁 30-ordered-set
+│   ├── 📁 31-prefix-sum
+│   ├── 📁 32-multi-threading
 ├── 📁 04-advanced-coding-patterns
 ├── 📁 05-dynamic-programming
 ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/LICENSE">LICENSE</a>
