@@ -87,6 +87,8 @@ It aligns with the course’s focus on mastering core concepts through a combina
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/01-warm-up/07.number_of_good_pairs.py">07.number_of_good_pairs.py</a>
 │   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/01-warm-up/08.sqrtx.py">08.sqrtx.py</a>
 │   ├── 📁 02-two-pointers
+│   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/02-two-pointers/01.pair_with_target_sum.py">01.pair_with_target_sum.py</a>
+│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/02-two-pointers/02.remove_duplicates_from_sorted_array.py">02.remove_duplicates_from_sorted_array.py</a>
 │   ├── 📁 03-fast-and-slow-pointers
 │   ├── 📁 04-sliding-window
 │   ├── 📁 05-merge-intervals
