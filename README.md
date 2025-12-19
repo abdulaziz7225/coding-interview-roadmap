@@ -83,7 +83,9 @@ It aligns with the course’s focus on mastering core concepts through a combina
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/01-warm-up/03.reverse_vowels_of_a_string.py">03.reverse_vowels_of_a_string.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/01-warm-up/04.valid_palindrome.py">04.valid_palindrome.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/01-warm-up/05.valid_anagram.py">05.valid_anagram.py</a>
-│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/01-warm-up/07.number_of_good_pairs.py">07.number_of_good_pairs.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/01-warm-up/06.shortest-word-distance.py">06.shortest-word-distance.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/01-warm-up/07.number_of_good_pairs.py">07.number_of_good_pairs.py</a>
+│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/01-warm-up/08.sqrtx.py">08.sqrtx.py</a>
 │   ├── 📁 02-two-pointers
 │   ├── 📁 03-fast-and-slow-pointers
 │   ├── 📁 04-sliding-window
