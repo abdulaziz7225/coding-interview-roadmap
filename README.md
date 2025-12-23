@@ -98,7 +98,8 @@ It aligns with the course’s focus on mastering core concepts through a combina
 │   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/02-two-pointers/09.backspace_string_compare.py">09.backspace_string_compare.py</a>
 │   ├── 📁 03-fast-and-slow-pointers
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/03-fast-and-slow-pointers/01.linked_list_cycle.py">01.linked_list_cycle.py</a>
-│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/03-fast-and-slow-pointers/02.middle_of_the_linked_list.py">02.middle_of_the_linked_list.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/03-fast-and-slow-pointers/02.middle_of_the_linked_list.py">02.middle_of_the_linked_list.py</a>
+│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/03-fast-and-slow-pointers/03.linked_list_cycle_ii.py">03.linked_list_cycle_ii.py</a>
 │   ├── 📁 04-sliding-window
 │   ├── 📁 05-merge-intervals
 │   ├── 📁 06-cyclic-sort
