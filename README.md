@@ -94,7 +94,8 @@ It aligns with the course’s focus on mastering core concepts through a combina
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/02-two-pointers/05.3sum_closest.py">05.3sum_closest.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/02-two-pointers/06.3sum_smaller.py">06.3sum_smaller.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/02-two-pointers/07.sort_colors.py">07.sort_colors.py</a>
-│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/02-two-pointers/08.4sum.py">08.4sum.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/02-two-pointers/08.4sum.py">08.4sum.py</a>
+│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/02-two-pointers/09.backspace_string_compare.py">09.backspace_string_compare.py</a>
 │   ├── 📁 03-fast-and-slow-pointers
 │   ├── 📁 04-sliding-window
 │   ├── 📁 05-merge-intervals
