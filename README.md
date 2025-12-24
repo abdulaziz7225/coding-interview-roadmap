@@ -96,7 +96,8 @@ It aligns with the course’s focus on mastering core concepts through a combina
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/02-two-pointers/06.3sum_smaller.py">06.3sum_smaller.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/02-two-pointers/07.sort_colors.py">07.sort_colors.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/02-two-pointers/08.4sum.py">08.4sum.py</a>
-│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/02-two-pointers/09.backspace_string_compare.py">09.backspace_string_compare.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/02-two-pointers/09.backspace_string_compare.py">09.backspace_string_compare.py</a>
+│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/02-two-pointers/10.shortest_unsorted_continuous_subarray.py">10.shortest_unsorted_continuous_subarray.py</a>
 │   ├── 📁 03-fast-and-slow-pointers
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/03-fast-and-slow-pointers/01.linked_list_cycle.py">01.linked_list_cycle.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/03-fast-and-slow-pointers/02.middle_of_the_linked_list.py">02.middle_of_the_linked_list.py</a>
