@@ -1,0 +1,55 @@
+from typing import Optional
+
+
+# Definition for singly-linked list.
+class ListNode:
+    def __init__(self, x):
+        self.val = x
+        self.next = None
+
+
+class Solution:
+    def reorderList(self, head: Optional[ListNode]) -> None:
+        """
+        Do not return anything, modify head in-place instead.
+        """
+        middle = self.findMiddleElement(head)
+
+        front = head
+        back = self.reverseLinkedList(middle.next)
+        middle.next = None
+
+        while front and back:
+            ptr1 = front.next
+            ptr2 = back.next
+
+            front.next = back
+            back.next = ptr1
+
+            front = ptr1
+            back = ptr2
+
+    def findMiddleElement(self, head: Optional[ListNode]) -> Optional[ListNode]:
+        slow = head
+        fast = head
+
+        while fast and fast.next:
+            slow = slow.next
+            fast = fast.next.next
+
+        return slow
+
+    def reverseLinkedList(self, head: Optional[ListNode]) -> Optional[ListNode]:
+        prev = None
+        curr = head
+
+        while curr:
+            temp = curr.next
+            curr.next = prev
+            prev = curr
+            curr = temp
+
+        return prev
+
+# Time Complexity: O(3 * (n // 2) ==> O(n)
+# Space Complexity: O(1)
