@@ -105,7 +105,8 @@ It aligns with the course’s focus on mastering core concepts through a combina
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/03-fast-and-slow-pointers/05.palindrome_linked_list.py">05.palindrome_linked_list.py</a>
 │   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/03-fast-and-slow-pointers/06.reorder_list.py">06.reorder_list.py</a>
 │   ├── 📁 04-sliding-window
-│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/04-sliding-window/01.maximum_sum_subarray_of_size_k.py">01.maximum_sum_subarray_of_size_k.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/04-sliding-window/01.maximum_sum_subarray_of_size_k.py">01.maximum_sum_subarray_of_size_k.py</a>
+│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/04-sliding-window/02.minimum_size_subarray_sum.py">02.minimum_size_subarray_sum.py</a>
 │   ├── 📁 05-merge-intervals
 │   ├── 📁 06-cyclic-sort
 │   ├── 📁 07-in-place-reversal-of-linked-list
