@@ -111,7 +111,8 @@ It aligns with the course’s focus on mastering core concepts through a combina
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/04-sliding-window/03.longest_substring_with_at_most_k_distinct_characters.py">03.longest_substring_with_at_most_k_distinct_characters.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/04-sliding-window/04.fruit_into_baskets.py">04.fruit_into_baskets.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/04-sliding-window/05.longest_repeating_character_replacement.py">05.longest_repeating_character_replacement.py</a>
-│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/04-sliding-window/06.max_consecutive_ones_iii.py">06.max_consecutive_ones_iii.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/04-sliding-window/06.max_consecutive_ones_iii.py">06.max_consecutive_ones_iii.py</a>
+│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/04-sliding-window/07.permutation_in_string.py">07.permutation_in_string.py</a>
 │   ├── 📁 05-merge-intervals
 │   ├── 📁 06-cyclic-sort
 │   ├── 📁 07-in-place-reversal-of-linked-list
