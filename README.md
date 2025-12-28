@@ -119,7 +119,8 @@ It aligns with the course’s focus on mastering core concepts through a combina
 │   ├── 📁 05-merge-intervals
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/05-merge-intervals/01.merge_intervals.py">01.merge_intervals.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/05-merge-intervals/02.insert_interval.py">02.insert_interval.py</a>
-│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/05-merge-intervals/03.interval_list_intersections.py">03.interval_list_intersections.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/05-merge-intervals/03.interval_list_intersections.py">03.interval_list_intersections.py</a>
+│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/05-merge-intervals/05.meeting_rooms_ii.py">05.meeting_rooms_ii.py</a>
 │   ├── 📁 06-cyclic-sort
 │   ├── 📁 07-in-place-reversal-of-linked-list
 │   ├── 📁 08-stack
