@@ -117,6 +117,7 @@ It aligns with the course’s focus on mastering core concepts through a combina
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/04-sliding-window/11.subarray_product_less_than_k.py">11.subarray_product_less_than_k.py</a>
 │   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/04-sliding-window/12.list_of_subarrays_product_less_than_k.py">12.list_of_subarrays_product_less_than_k.py</a>
 │   ├── 📁 05-merge-intervals
+│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/05-merge-intervals/01.merge_intervals.py">01.merge_intervals.py</a>
 │   ├── 📁 06-cyclic-sort
 │   ├── 📁 07-in-place-reversal-of-linked-list
 │   ├── 📁 08-stack
