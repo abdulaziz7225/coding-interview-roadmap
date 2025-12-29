@@ -124,6 +124,7 @@ It aligns with the course’s focus on mastering core concepts through a combina
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/05-merge-intervals/05.meeting_rooms_ii.py">05.meeting_rooms_ii.py</a>
 │   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/05-merge-intervals/06.maximum_cpu_load.py">06.maximum_cpu_load.py</a>
 │   ├── 📁 06-cyclic-sort
+│   │   └──<a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/06-cyclic-sort/01.cyclic_sort.py">01.cyclic_sort.py</a>
 │   ├── 📁 07-in-place-reversal-of-linked-list
 │   ├── 📁 08-stack
 │   ├── 📁 09-monotonic-stack
