@@ -128,7 +128,8 @@ It aligns with the course’s focus on mastering core concepts through a combina
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/06-cyclic-sort/02.missing_number.py">02.missing_number.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/06-cyclic-sort/03.find_all_numbers_disappeared_in_an_array.py">03.find_all_numbers_disappeared_in_an_array.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/06-cyclic-sort/04.find_the_duplicate_number.py">04.find_the_duplicate_number.py</a>
-│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/06-cyclic-sort/05.find_all_duplicates_in_an_array.py">05.find_all_duplicates_in_an_array.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/06-cyclic-sort/05.find_all_duplicates_in_an_array.py">05.find_all_duplicates_in_an_array.py</a>
+│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/06-cyclic-sort/06.find_the_corrupt_one.py">06.find_the_corrupt_one.py</a>
 │   ├── 📁 07-in-place-reversal-of-linked-list
 │   ├── 📁 08-stack
 │   ├── 📁 09-monotonic-stack
