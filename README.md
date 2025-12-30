@@ -126,7 +126,8 @@ It aligns with the course’s focus on mastering core concepts through a combina
 │   ├── 📁 06-cyclic-sort
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/06-cyclic-sort/01.cyclic_sort.py">01.cyclic_sort.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/06-cyclic-sort/02.missing_number.py">02.missing_number.py</a>
-│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/06-cyclic-sort/03.find_all_numbers_disappeared_in_an_array.py">03.find_all_numbers_disappeared_in_an_array.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/06-cyclic-sort/03.find_all_numbers_disappeared_in_an_array.py">03.find_all_numbers_disappeared_in_an_array.py</a>
+│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/06-cyclic-sort/04.find_the_duplicate_number.py">04.find_the_duplicate_number.py</a>
 │   ├── 📁 07-in-place-reversal-of-linked-list
 │   ├── 📁 08-stack
 │   ├── 📁 09-monotonic-stack
