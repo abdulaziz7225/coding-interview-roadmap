@@ -122,7 +122,8 @@ It aligns with the course’s focus on mastering core concepts through a combina
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/05-merge-intervals/03.interval_list_intersections.py">03.interval_list_intersections.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/05-merge-intervals/04.meeting_room_i.py">04.meeting_room_i.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/05-merge-intervals/05.meeting_rooms_ii.py">05.meeting_rooms_ii.py</a>
-│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/05-merge-intervals/06.maximum_cpu_load.py">06.maximum_cpu_load.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/05-merge-intervals/06.maximum_cpu_load.py">06.maximum_cpu_load.py</a>
+│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/05-merge-intervals/07.employee_free_time.py">07.employee_free_time.py</a>
 │   ├── 📁 06-cyclic-sort
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/06-cyclic-sort/01.cyclic_sort.py">01.cyclic_sort.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/06-cyclic-sort/02.missing_number.py">02.missing_number.py</a>
