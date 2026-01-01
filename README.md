@@ -135,7 +135,8 @@ It aligns with the course’s focus on mastering core concepts through a combina
 │   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/06-cyclic-sort/08.first_k_missing_positive.py">08.first_k_missing_positive.py</a>
 │   ├── 📁 07-in-place-reversal-of-linked-list
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/07-in-place-reversal-of-linked-list/01.reverse_linked_list.py">01.reverse_linked_list.py</a>
-│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/07-in-place-reversal-of-linked-list/02.reverse_linked_list_ii.py">02.reverse_linked_list_ii.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/07-in-place-reversal-of-linked-list/02.reverse_linked_list_ii.py">02.reverse_linked_list_ii.py</a>
+│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/07-in-place-reversal-of-linked-list/05.rotate_linked_list.py">05.rotate_linked_list.py</a>
 │   ├── 📁 08-stack
 │   ├── 📁 09-monotonic-stack
 │   ├── 📁 10-hash-map
