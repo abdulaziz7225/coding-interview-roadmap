@@ -138,7 +138,17 @@ It aligns with the course’s focus on mastering core concepts through a combina
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/07-in-place-reversal-of-linked-list/02.reverse_linked_list_ii.py">02.reverse_linked_list_ii.py</a>
 │   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/07-in-place-reversal-of-linked-list/05.rotate_linked_list.py">05.rotate_linked_list.py</a>
 │   ├── 📁 08-stack
+│   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/08-stack/01.valid_parentheses.py">01.valid_parentheses.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/08-stack/02.reverse_string.py">02.reverse_string.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/08-stack/03.decimal_to_binary_conversion.py">03.decimal_to_binary_conversion.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/08-stack/04.next_greater_element.py">04.next_greater_element.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/08-stack/05.sorting_stack.py">05.sorting_stack.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/08-stack/06.simplify_path.py">06.simplify_path.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/08-stack/07.remove_all_adjacent_duplicates_in_string.py">07.remove_all_adjacent_duplicates_in_string.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/08-stack/08.removing_stars_from_a_string.py">08.removing_stars_from_a_string.py</a>
+│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/08-stack/09.make_the_string_great.py">09.make_the_string_great.py</a>
 │   ├── 📁 09-monotonic-stack
+│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/09-monotonic-stack/02.remove_all_adjacent_duplicates_in_string.py">02.remove_all_adjacent_duplicates_in_string.py</a>
 │   ├── 📁 10-hash-map
 │   ├── 📁 11-level-order-traversal
 │   ├── 📁 12-tree-breadth-first-search
