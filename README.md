@@ -148,6 +148,7 @@ It aligns with the course’s focus on mastering core concepts through a combina
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/08-stack/08.removing_stars_from_a_string.py">08.removing_stars_from_a_string.py</a>
 │   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/08-stack/09.make_the_string_great.py">09.make_the_string_great.py</a>
 │   ├── 📁 09-monotonic-stack
+│   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/09-monotonic-stack/01.remove_nodes_from_linked_list.py">01.remove_nodes_from_linked_list.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/09-monotonic-stack/02.remove_all_adjacent_duplicates_in_string.py">02.remove_all_adjacent_duplicates_in_string.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/09-monotonic-stack/03.next_greater_element_i.py">03.next_greater_element_i.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/09-monotonic-stack/04.daily_temperatures.py">04.daily_temperatures.py</a>
