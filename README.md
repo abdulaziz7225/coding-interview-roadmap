@@ -153,7 +153,8 @@ It aligns with the course’s focus on mastering core concepts through a combina
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/09-monotonic-stack/03.next_greater_element_i.py">03.next_greater_element_i.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/09-monotonic-stack/04.daily_temperatures.py">04.daily_temperatures.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/09-monotonic-stack/05.remove_all_adjacent_duplicates_in_string_ii.py">05.remove_all_adjacent_duplicates_in_string_ii.py</a>
-│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/09-monotonic-stack/06.sum_of_subarray_minimums.py">06.sum_of_subarray_minimums.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/09-monotonic-stack/06.sum_of_subarray_minimums.py">06.sum_of_subarray_minimums.py</a>
+│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/09-monotonic-stack/07.remove_k_digits.py">07.remove_k_digits.py</a>
 │   ├── 📁 10-hash-map
 │   ├── 📁 11-level-order-traversal
 │   ├── 📁 12-tree-breadth-first-search
