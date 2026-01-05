@@ -157,6 +157,7 @@ It aligns with the course’s focus on mastering core concepts through a combina
 │   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/09-monotonic-stack/07.remove_k_digits.py">07.remove_k_digits.py</a>
 │   ├── 📁 10-hash-map
 │   ├── 📁 11-level-order-traversal
+│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/11-level-order-traversal/01.binary_tree_level_order_traversal_ii.py">01.binary_tree_level_order_traversal_ii.py</a>
 │   ├── 📁 12-tree-breadth-first-search
 │   ├── 📁 13-tree-depth-first-search
 │   ├── 📁 14-graph
