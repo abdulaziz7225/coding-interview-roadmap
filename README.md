@@ -158,7 +158,8 @@ It aligns with the course’s focus on mastering core concepts through a combina
 │   ├── 📁 10-hash-map
 │   ├── 📁 11-level-order-traversal
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/11-level-order-traversal/01.binary_tree_level_order_traversal_ii.py">01.binary_tree_level_order_traversal_ii.py</a>
-│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/11-level-order-traversal/02.find_largest_value_in_each_tree_row.py">02.find_largest_value_in_each_tree_row.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/11-level-order-traversal/02.find_largest_value_in_each_tree_row.py">02.find_largest_value_in_each_tree_row.py</a>
+│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/11-level-order-traversal/05.binary_tree_zigzag_level_order_traversal.py">05.binary_tree_zigzag_level_order_traversal.py</a>
 │   ├── 📁 12-tree-breadth-first-search
 │   ├── 📁 13-tree-depth-first-search
 │   ├── 📁 14-graph
