@@ -11,37 +11,34 @@ class TreeNode:
 
 
 class Solution:
-    def isEvenOddTree(self, root: Optional[TreeNode]) -> bool:
+    def maxLevelSum(self, root: Optional[TreeNode]) -> int:
         queue = deque()
         queue.append(root)
 
-        even_depth = True
+        curr_depth = 1
+        result = 1
+        max_level_sum = float("-inf")
 
         while queue:
             level_size = len(queue)
-
-            prev = float("inf")
-            if even_depth:
-                prev = -prev
+            curr_level_sum = 0
 
             for _ in range(level_size):
                 node = queue.popleft()
+                curr_level_sum += node.val
 
-                if even_depth and (node.val % 2 == 0 or node.val <= prev):
-                    return False
-                if not even_depth and (node.val % 2 == 1 or node.val >= prev):
-                    return False
-                
-                prev = node.val
-                
                 if node.left:
                     queue.append(node.left)
                 if node.right:
                     queue.append(node.right)
 
-            even_depth = not even_depth
+            if curr_level_sum > max_level_sum:
+                max_level_sum = curr_level_sum
+                result = curr_depth
 
-        return True
+            curr_depth += 1
+
+        return result
 
 # Time Complexity: O(n)
 # Space Complexity: O(n)

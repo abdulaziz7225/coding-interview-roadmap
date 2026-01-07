@@ -159,6 +159,7 @@ It aligns with the course’s focus on mastering core concepts through a combina
 │   ├── 📁 11-level-order-traversal
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/11-level-order-traversal/01.binary_tree_level_order_traversal_ii.py">01.binary_tree_level_order_traversal_ii.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/11-level-order-traversal/02.find_largest_value_in_each_tree_row.py">02.find_largest_value_in_each_tree_row.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/11-level-order-traversal/04.maximum_level_sum_of_a_binary_tree.py">04.maximum_level_sum_of_a_binary_tree.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/11-level-order-traversal/05.binary_tree_zigzag_level_order_traversal.py">05.binary_tree_zigzag_level_order_traversal.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/11-level-order-traversal/06.even_odd_tree.py">06.even_odd_tree.py</a>
 │   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/11-level-order-traversal/07.n_ary_tree_level_order_traversal.py">07.n_ary_tree_level_order_traversal.py</a>
