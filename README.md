@@ -168,7 +168,8 @@ It aligns with the course’s focus on mastering core concepts through a combina
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/12-tree-breadth-first-search/01.binary_tree_level_order_traversal.py">01.binary_tree_level_order_traversal.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/12-tree-breadth-first-search/02.binary_tree_level_order_traversal_ii.py">02.binary_tree_level_order_traversal_ii.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/12-tree-breadth-first-search/03.binary_tree_zigzag_level_order_traversal.py">03.binary_tree_zigzag_level_order_traversal.py</a>
-│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/12-tree-breadth-first-search/04.average_of_levels_in_binary_tree.py">04.average_of_levels_in_binary_tree.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/12-tree-breadth-first-search/04.average_of_levels_in_binary_tree.py">04.average_of_levels_in_binary_tree.py</a>
+│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/12-tree-breadth-first-search/05.minimum_depth_of_binary_tree.py">05.minimum_depth_of_binary_tree.py</a>
 │   ├── 📁 13-tree-depth-first-search
 │   ├── 📁 14-graph
 │   ├── 📁 15-island-matrix-traversal
