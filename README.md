@@ -175,6 +175,7 @@ It aligns with the course’s focus on mastering core concepts through a combina
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/12-tree-breadth-first-search/08.connect_all_level_order_siblings.py">08.connect_all_level_order_siblings.py</a>
 │   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/12-tree-breadth-first-search/09.binary_tree_right_side_view.py">09.binary_tree_right_side_view.py</a>
 │   ├── 📁 13-tree-depth-first-search
+│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/13-tree-depth-first-search/01.path_sum.py">01.path_sum.py</a>
 │   ├── 📁 14-graph
 │   ├── 📁 15-island-matrix-traversal
 │   ├── 📁 16-two-heaps
@@ -196,6 +197,11 @@ It aligns with the course’s focus on mastering core concepts through a combina
 │   ├── 📁 32-multi-threading
 ├── 📁 04-advanced-coding-patterns
 ├── 📁 05-dynamic-programming
+│   ├── 📁 01-0-or-1-knapsack
+│   ├── 📁 02-unbounded-knapsack
+│   ├── 📁 03-fibonacci-numbers
+│   ├── 📁 04-palindromic-subsequence
+│   ├── 📁 05-longest-common-substring
 ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/LICENSE">LICENSE</a>
 ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/README.md">README.md</a>
 └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/directory_layout_script.py">directory_layout_script.py</a>
