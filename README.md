@@ -176,7 +176,8 @@ It aligns with the course’s focus on mastering core concepts through a combina
 │   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/12-tree-breadth-first-search/09.binary_tree_right_side_view.py">09.binary_tree_right_side_view.py</a>
 │   ├── 📁 13-tree-depth-first-search
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/13-tree-depth-first-search/01.path_sum.py">01.path_sum.py</a>
-│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/13-tree-depth-first-search/02.path_sum_ii.py">02.path_sum_ii.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/13-tree-depth-first-search/02.path_sum_ii.py">02.path_sum_ii.py</a>
+│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/13-tree-depth-first-search/03.sum_root_to_leaf_numbers.py">03.sum_root_to_leaf_numbers.py</a>
 │   ├── 📁 14-graph
 │   ├── 📁 15-island-matrix-traversal
 │   ├── 📁 16-two-heaps
