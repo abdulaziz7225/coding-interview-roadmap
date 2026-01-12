@@ -180,7 +180,8 @@ It aligns with the course’s focus on mastering core concepts through a combina
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/13-tree-depth-first-search/03.sum_root_to_leaf_numbers.py">03.sum_root_to_leaf_numbers.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/13-tree-depth-first-search/04.check_if_a_string_is_a_valid_sequence_from_root_to_leaves_path.py">04.check_if_a_string_is_a_valid_sequence_from_root_to_leaves_path.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/13-tree-depth-first-search/05.path_sum_iii.py">05.path_sum_iii.py</a>
-│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/13-tree-depth-first-search/06.diameter_of_binary_tree.py">06.diameter_of_binary_tree.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/13-tree-depth-first-search/06.diameter_of_binary_tree.py">06.diameter_of_binary_tree.py</a>
+│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/13-tree-depth-first-search/07.binary_tree_maximum_path_sum.py">07.binary_tree_maximum_path_sum.py</a>
 │   ├── 📁 14-graph
 │   ├── 📁 15-island-matrix-traversal
 │   ├── 📁 16-two-heaps
