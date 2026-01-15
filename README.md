@@ -41,7 +41,8 @@ It aligns with the course’s focus on mastering core concepts through a combina
 │   ├── 📁 04-queue
 │   ├── 📁 05-linked-list
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/01-data-structures-and-algorithms/05-linked-list/01.reverse_linked_list.py">01.reverse_linked_list.py</a>
-│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/01-data-structures-and-algorithms/05-linked-list/02.remove_duplicates_from_sorted_list.py">02.remove_duplicates_from_sorted_list.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/01-data-structures-and-algorithms/05-linked-list/02.remove_duplicates_from_sorted_list.py">02.remove_duplicates_from_sorted_list.py</a>
+│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/01-data-structures-and-algorithms/05-linked-list/03.merge_two_sorted_lists.py">03.merge_two_sorted_lists.py</a>
 │   ├── 📁 06-tree-and-binary-search-tree
 │   ├── 📁 07-hash-table
 │   ├── 📁 08-hash-set
