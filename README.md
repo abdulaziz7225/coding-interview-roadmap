@@ -191,7 +191,8 @@ It aligns with the course’s focus on mastering core concepts through a combina
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/15-island-matrix-traversal/01.number_of_islands.py">01.number_of_islands.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/15-island-matrix-traversal/02.max_area_of_island.py">02.max_area_of_island.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/15-island-matrix-traversal/03.flood_fill.py">03.flood_fill.py</a>
-│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/15-island-matrix-traversal/04.number_of_closed_islands.py">04.number_of_closed_islands.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/15-island-matrix-traversal/04.number_of_closed_islands.py">04.number_of_closed_islands.py</a>
+│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/15-island-matrix-traversal/05.island_perimeter.py">05.island_perimeter.py</a>
 │   ├── 📁 16-two-heaps
 │   ├── 📁 17-subset
 │   ├── 📁 18-modified-binary-search
