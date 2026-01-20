@@ -193,7 +193,8 @@ It aligns with the course’s focus on mastering core concepts through a combina
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/15-island-matrix-traversal/03.flood_fill.py">03.flood_fill.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/15-island-matrix-traversal/04.number_of_closed_islands.py">04.number_of_closed_islands.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/15-island-matrix-traversal/05.island_perimeter.py">05.island_perimeter.py</a>
-│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/15-island-matrix-traversal/06.number_of_distinct_islands.py">06.number_of_distinct_islands.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/15-island-matrix-traversal/06.number_of_distinct_islands.py">06.number_of_distinct_islands.py</a>
+│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/15-island-matrix-traversal/07.detect_cycles_in_2d_grid.py">07.detect_cycles_in_2d_grid.py</a>
 │   ├── 📁 16-two-heaps
 │   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/16-two-heaps/01.find_median_from_data_stream.py">01.find_median_from_data_stream.py</a>
 │   ├── 📁 17-subset
