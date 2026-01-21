@@ -198,6 +198,7 @@ It aligns with the course’s focus on mastering core concepts through a combina
 │   ├── 📁 16-two-heaps
 │   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/16-two-heaps/01.find_median_from_data_stream.py">01.find_median_from_data_stream.py</a>
 │   ├── 📁 17-subset
+│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/17-subset/78.subsets.py">78.subsets.py</a>
 │   ├── 📁 18-modified-binary-search
 │   ├── 📁 19-bitwise-xor
 │   ├── 📁 20-top-k-elements
