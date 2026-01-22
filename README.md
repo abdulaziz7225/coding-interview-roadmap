@@ -54,6 +54,7 @@ It aligns with the course’s focus on mastering core concepts through a combina
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/01-data-structures-and-algorithms/09-heap/03.minimum_cost_to_connect_sticks.py">03.minimum_cost_to_connect_sticks.py</a>
 │   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/01-data-structures-and-algorithms/09-heap/04.find_median_from_data_stream.py">04.find_median_from_data_stream.py</a>
 │   ├── 📁 10-graph
+│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/01-data-structures-and-algorithms/10-graph/01.find_if_path_exists_in_graph.py">01.find_if_path_exists_in_graph.py</a>
 │   ├── 📁 11-trie
 │   ├── 📁 12-sorting
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/01-data-structures-and-algorithms/12-sorting/01.apple_redistribution_into_boxes.py">01.apple_redistribution_into_boxes.py</a>
@@ -187,6 +188,7 @@ It aligns with the course’s focus on mastering core concepts through a combina
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/13-tree-depth-first-search/06.diameter_of_binary_tree.py">06.diameter_of_binary_tree.py</a>
 │   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/13-tree-depth-first-search/07.binary_tree_maximum_path_sum.py">07.binary_tree_maximum_path_sum.py</a>
 │   ├── 📁 14-graph
+│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/14-graph/01.find_if_path_exists_in_graph.py">01.find_if_path_exists_in_graph.py</a>
 │   ├── 📁 15-island-matrix-traversal
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/15-island-matrix-traversal/01.number_of_islands.py">01.number_of_islands.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/15-island-matrix-traversal/02.max_area_of_island.py">02.max_area_of_island.py</a>
