@@ -56,6 +56,7 @@ It aligns with the course’s focus on mastering core concepts through a combina
 │   ├── 📁 10-graph
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/01-data-structures-and-algorithms/10-graph/01.find_if_path_exists_in_graph.py">01.find_if_path_exists_in_graph.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/01-data-structures-and-algorithms/10-graph/02.number_of_provinces.py">02.number_of_provinces.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/01-data-structures-and-algorithms/10-graph/03.find_eventual_safe_states.py">03.find_eventual_safe_states.py</a>
 │   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/01-data-structures-and-algorithms/10-graph/04.minimum_number_of_vertices_to_reach_all_nodes.py">04.minimum_number_of_vertices_to_reach_all_nodes.py</a>
 │   ├── 📁 11-trie
 │   ├── 📁 12-sorting
@@ -192,6 +193,7 @@ It aligns with the course’s focus on mastering core concepts through a combina
 │   ├── 📁 14-graph
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/14-graph/01.find_if_path_exists_in_graph.py">01.find_if_path_exists_in_graph.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/14-graph/02.number_of_provinces.py">02.number_of_provinces.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/14-graph/03.find_eventual_safe_states.py">03.find_eventual_safe_states.py</a>
 │   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/14-graph/04.minimum_number_of_vertices_to_reach_all_nodes.py">04.minimum_number_of_vertices_to_reach_all_nodes.py</a>
 │   ├── 📁 15-island-matrix-traversal
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/15-island-matrix-traversal/01.number_of_islands.py">01.number_of_islands.py</a>
