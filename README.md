@@ -55,7 +55,8 @@ It aligns with the course’s focus on mastering core concepts through a combina
 │   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/01-data-structures-and-algorithms/09-heap/04.find_median_from_data_stream.py">04.find_median_from_data_stream.py</a>
 │   ├── 📁 10-graph
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/01-data-structures-and-algorithms/10-graph/01.find_if_path_exists_in_graph.py">01.find_if_path_exists_in_graph.py</a>
-│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/01-data-structures-and-algorithms/10-graph/02.number_of_provinces.py">02.number_of_provinces.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/01-data-structures-and-algorithms/10-graph/02.number_of_provinces.py">02.number_of_provinces.py</a>
+│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/01-data-structures-and-algorithms/10-graph/04.minimum_number_of_vertices_to_reach_all_nodes.py">04.minimum_number_of_vertices_to_reach_all_nodes.py</a>
 │   ├── 📁 11-trie
 │   ├── 📁 12-sorting
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/01-data-structures-and-algorithms/12-sorting/01.apple_redistribution_into_boxes.py">01.apple_redistribution_into_boxes.py</a>
@@ -190,7 +191,8 @@ It aligns with the course’s focus on mastering core concepts through a combina
 │   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/13-tree-depth-first-search/07.binary_tree_maximum_path_sum.py">07.binary_tree_maximum_path_sum.py</a>
 │   ├── 📁 14-graph
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/14-graph/01.find_if_path_exists_in_graph.py">01.find_if_path_exists_in_graph.py</a>
-│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/14-graph/02.number_of_provinces.py">02.number_of_provinces.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/14-graph/02.number_of_provinces.py">02.number_of_provinces.py</a>
+│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/14-graph/04.minimum_number_of_vertices_to_reach_all_nodes.py">04.minimum_number_of_vertices_to_reach_all_nodes.py</a>
 │   ├── 📁 15-island-matrix-traversal
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/15-island-matrix-traversal/01.number_of_islands.py">01.number_of_islands.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/15-island-matrix-traversal/02.max_area_of_island.py">02.max_area_of_island.py</a>
