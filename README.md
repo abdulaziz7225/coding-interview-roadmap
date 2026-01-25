@@ -206,7 +206,8 @@ It aligns with the course’s focus on mastering core concepts through a combina
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/15-island-matrix-traversal/06.number_of_distinct_islands.py">06.number_of_distinct_islands.py</a>
 │   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/15-island-matrix-traversal/07.detect_cycles_in_2d_grid.py">07.detect_cycles_in_2d_grid.py</a>
 │   ├── 📁 16-two-heaps
-│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/16-two-heaps/01.find_median_from_data_stream.py">01.find_median_from_data_stream.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/16-two-heaps/01.find_median_from_data_stream.py">01.find_median_from_data_stream.py</a>
+│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/16-two-heaps/04.find_right_interval.py">04.find_right_interval.py</a>
 │   ├── 📁 17-subset
 │   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/17-subset/78.subsets.py">78.subsets.py</a>
 │   ├── 📁 18-modified-binary-search
