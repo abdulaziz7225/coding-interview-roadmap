@@ -213,7 +213,8 @@ It aligns with the course’s focus on mastering core concepts through a combina
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/17-subset/02.subsets_ii.py">02.subsets_ii.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/17-subset/03.permutations.py">03.permutations.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/17-subset/04.letter_case_permutation.py">04.letter_case_permutation.py</a>
-│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/17-subset/05.generate_parentheses.py">05.generate_parentheses.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/17-subset/05.generate_parentheses.py">05.generate_parentheses.py</a>
+│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/17-subset/09.unique_binary_search_trees.py">09.unique_binary_search_trees.py</a>
 │   ├── 📁 18-modified-binary-search
 │   ├── 📁 19-bitwise-xor
 │   ├── 📁 20-top-k-elements
