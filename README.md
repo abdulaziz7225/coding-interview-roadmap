@@ -217,6 +217,9 @@ It aligns with the course’s focus on mastering core concepts through a combina
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/17-subset/08.unique_binary_search_trees_ii.py">08.unique_binary_search_trees_ii.py</a>
 │   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/17-subset/09.unique_binary_search_trees.py">09.unique_binary_search_trees.py</a>
 │   ├── 📁 18-modified-binary-search
+│   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/18-modified-binary-search/01.order_agnostic_binary_search.py">01.order_agnostic_binary_search.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/18-modified-binary-search/02.search_insert_position.py">02.search_insert_position.py</a>
+│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/18-modified-binary-search/03.find_smallest_letter_greater_than_target.py">03.find_smallest_letter_greater_than_target.py</a>
 │   ├── 📁 19-bitwise-xor
 │   ├── 📁 20-top-k-elements
 │   ├── 📁 21-k-way-merge
