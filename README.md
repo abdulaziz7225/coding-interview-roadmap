@@ -219,7 +219,9 @@ It aligns with the course’s focus on mastering core concepts through a combina
 │   ├── 📁 18-modified-binary-search
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/18-modified-binary-search/01.order_agnostic_binary_search.py">01.order_agnostic_binary_search.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/18-modified-binary-search/02.search_insert_position.py">02.search_insert_position.py</a>
-│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/18-modified-binary-search/03.find_smallest_letter_greater_than_target.py">03.find_smallest_letter_greater_than_target.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/18-modified-binary-search/03.find_smallest_letter_greater_than_target.py">03.find_smallest_letter_greater_than_target.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/18-modified-binary-search/04.find_first_and_last_position_of_element_in_sorted_array.py">04.find_first_and_last_position_of_element_in_sorted_array.py</a>
+│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/18-modified-binary-search/05.search_in_a_sorted_array_of_unknown_size.py">05.search_in_a_sorted_array_of_unknown_size.py</a>
 │   ├── 📁 19-bitwise-xor
 │   ├── 📁 20-top-k-elements
 │   ├── 📁 21-k-way-merge
