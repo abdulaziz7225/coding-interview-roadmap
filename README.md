@@ -225,7 +225,8 @@ It aligns with the course’s focus on mastering core concepts through a combina
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/18-modified-binary-search/07.bitonic_array_maximum.py">07.bitonic_array_maximum.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/18-modified-binary-search/08.search_bitonic_array.py">08.search_bitonic_array.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/18-modified-binary-search/09.search_in_rotated_sorted_array.py">09.search_in_rotated_sorted_array.py</a>
-│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/18-modified-binary-search/10.search_in_rotated_sorted_array_ii.py">10.search_in_rotated_sorted_array_ii.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/18-modified-binary-search/10.search_in_rotated_sorted_array_ii.py">10.search_in_rotated_sorted_array_ii.py</a>
+│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/18-modified-binary-search/11.find_minimum_in_rotated_sorted_array.py">11.find_minimum_in_rotated_sorted_array.py</a>
 │   ├── 📁 19-bitwise-xor
 │   ├── 📁 20-top-k-elements
 │   ├── 📁 21-k-way-merge
