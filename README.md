@@ -231,7 +231,8 @@ It aligns with the course’s focus on mastering core concepts through a combina
 │   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/18-modified-binary-search/12.find_minimum_in_rotated_sorted_array_ii.py">12.find_minimum_in_rotated_sorted_array_ii.py</a>
 │   ├── 📁 19-bitwise-xor
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/19-bitwise-xor/01.single_number.py">01.single_number.py</a>
-│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/19-bitwise-xor/02.single_number_iii.py">02.single_number_iii.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/19-bitwise-xor/02.single_number_iii.py">02.single_number_iii.py</a>
+│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/19-bitwise-xor/03.complement_of_base_10_integer.py">03.complement_of_base_10_integer.py</a>
 │   ├── 📁 20-top-k-elements
 │   ├── 📁 21-k-way-merge
 │   ├── 📁 22-greedy-algorithm
