@@ -235,6 +235,8 @@ It aligns with the course’s focus on mastering core concepts through a combina
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/19-bitwise-xor/03.complement_of_base_10_integer.py">03.complement_of_base_10_integer.py</a>
 │   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/19-bitwise-xor/04.flipping_an_image.py">04.flipping_an_image.py</a>
 │   ├── 📁 20-top-k-elements
+│   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/20-top-k-elements/01.top_k_elements.py">01.top_k_elements.py</a>
+│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/20-top-k-elements/02.kth_largest_element_in_an_array.py">02.kth_largest_element_in_an_array.py</a>
 │   ├── 📁 21-k-way-merge
 │   ├── 📁 22-greedy-algorithm
 │   ├── 📁 23-dp-0-or-1-knapsack
