@@ -237,7 +237,8 @@ It aligns with the course’s focus on mastering core concepts through a combina
 │   ├── 📁 20-top-k-elements
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/20-top-k-elements/01.top_k_elements.py">01.top_k_elements.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/20-top-k-elements/02.kth_largest_element_in_an_array.py">02.kth_largest_element_in_an_array.py</a>
-│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/20-top-k-elements/03.k_closest_points_to_origin.py">03.k_closest_points_to_origin.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/20-top-k-elements/03.k_closest_points_to_origin.py">03.k_closest_points_to_origin.py</a>
+│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/20-top-k-elements/04.minimum_cost_to_connect_sticks.py">04.minimum_cost_to_connect_sticks.py</a>
 │   ├── 📁 21-k-way-merge
 │   ├── 📁 22-greedy-algorithm
 │   ├── 📁 23-dp-0-or-1-knapsack
