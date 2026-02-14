@@ -242,7 +242,8 @@ It aligns with the course’s focus on mastering core concepts through a combina
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/20-top-k-elements/04.minimum_cost_to_connect_sticks.py">04.minimum_cost_to_connect_sticks.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/20-top-k-elements/05.top_k_frequent_elements.py">05.top_k_frequent_elements.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/20-top-k-elements/06.sort_characters_by_frequency.py">06.sort_characters_by_frequency.py</a>
-│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/20-top-k-elements/07.kth_largest_element_in_a_stream.py">07.kth_largest_element_in_a_stream.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/20-top-k-elements/07.kth_largest_element_in_a_stream.py">07.kth_largest_element_in_a_stream.py</a>
+│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/20-top-k-elements/08.find_k_closest_elements.py">08.find_k_closest_elements.py</a>
 │   ├── 📁 21-k-way-merge
 │   ├── 📁 22-greedy-algorithm
 │   ├── 📁 23-dp-0-or-1-knapsack
