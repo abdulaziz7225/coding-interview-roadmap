@@ -244,7 +244,9 @@ It aligns with the course’s focus on mastering core concepts through a combina
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/20-top-k-elements/06.sort_characters_by_frequency.py">06.sort_characters_by_frequency.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/20-top-k-elements/07.kth_largest_element_in_a_stream.py">07.kth_largest_element_in_a_stream.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/20-top-k-elements/08.find_k_closest_elements.py">08.find_k_closest_elements.py</a>
-│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/20-top-k-elements/09.least_number_of_unique_integers_after_k_removals.py">09.least_number_of_unique_integers_after_k_removals.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/20-top-k-elements/09.least_number_of_unique_integers_after_k_removals.py">09.least_number_of_unique_integers_after_k_removals.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/20-top-k-elements/10.sum_of_elements_between_k1_th_and_k2_th smallest_elements.py">10.sum_of_elements_between_k1_th_and_k2_th smallest_elements.py</a>
+│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/20-top-k-elements/11.reorganize_string.py">11.reorganize_string.py</a>
 │   ├── 📁 21-k-way-merge
 │   ├── 📁 22-greedy-algorithm
 │   ├── 📁 23-dp-0-or-1-knapsack
