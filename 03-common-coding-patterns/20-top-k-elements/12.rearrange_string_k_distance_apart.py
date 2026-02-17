@@ -1,8 +1,9 @@
 from heapq import heappush, heappop
+from collections import deque
 
 
 class Solution:
-    def reorganizeString(self, s: str) -> str:
+    def rearrangeString(self, s: str, k: int) -> str:
         count = dict()
         for char in s:
             count[char] = count.get(char, 0) + 1
@@ -11,19 +12,18 @@ class Solution:
         for char, freq in count.items():
             heappush(max_heap, (-freq, char))
 
-        prev_char = ""
-        prev_freq = 0
         result = []
+        queue = deque()
 
         while max_heap:
-            freq, char = heappop(max_heap)
-            result.append(char)
-            if prev_freq < 0:
-                heappush(max_heap, (prev_freq, prev_char))
+            curr_freq, curr_char = heappop(max_heap)
+            result.append(curr_char)
+            queue.append((curr_freq + 1, curr_char))
 
-            freq += 1
-            prev_char = char
-            prev_freq = freq
+            if len(queue) >= k:
+                cooled_freq, cooled_char = queue.popleft()
+                if cooled_freq < 0:
+                    heappush(max_heap, (cooled_freq, cooled_char))
 
         if len(result) != len(s):
             return ""
@@ -31,4 +31,4 @@ class Solution:
 
 # n = len(s), m = number of unique characters
 # Time Complexity: O(n + (n + m) * log(m)) ==> O(n * log(m))
-# Space Complexity: O(n + 2 * m) ==> O(n)
+# Space Complexity: O(n + 3 * m) ==> O(n)
