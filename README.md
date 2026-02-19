@@ -248,7 +248,8 @@ It aligns with the course’s focus on mastering core concepts through a combina
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/20-top-k-elements/10.sum_of_elements_between_k1_th_and_k2_th smallest_elements.py">10.sum_of_elements_between_k1_th_and_k2_th smallest_elements.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/20-top-k-elements/11.reorganize_string.py">11.reorganize_string.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/20-top-k-elements/12.rearrange_string_k_distance_apart.py">12.rearrange_string_k_distance_apart.py</a>
-│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/20-top-k-elements/13.task_scheduler.py">13.task_scheduler.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/20-top-k-elements/13.task_scheduler.py">13.task_scheduler.py</a>
+│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/20-top-k-elements/14.maximum_frequency_stack.py">14.maximum_frequency_stack.py</a>
 │   ├── 📁 21-k-way-merge
 │   ├── 📁 22-greedy-algorithm
 │   ├── 📁 23-dp-0-or-1-knapsack
