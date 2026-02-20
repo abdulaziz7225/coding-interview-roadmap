@@ -251,6 +251,7 @@ It aligns with the course’s focus on mastering core concepts through a combina
 │   │   ├── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/20-top-k-elements/13.task_scheduler.py">13.task_scheduler.py</a>
 │   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/20-top-k-elements/14.maximum_frequency_stack.py">14.maximum_frequency_stack.py</a>
 │   ├── 📁 21-k-way-merge
+│   │   └── <a href="https://github.com/abdulaziz7225/coding-interview-roadmap/blob/main/03-common-coding-patterns/21-k-way-merge/01.merge_k_sorted_lists.py">01.merge_k_sorted_lists.py</a>
 │   ├── 📁 22-greedy-algorithm
 │   ├── 📁 23-dp-0-or-1-knapsack
 │   ├── 📁 24-dp-fibonacci-number
